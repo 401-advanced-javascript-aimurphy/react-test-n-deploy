@@ -6,9 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-aimurphy/react-test-n-deploy/pull/5)
-* [![Build Status](https://travis-ci.com/401-advanced-javascript-aimurphy/react-test-n-deploy.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aimurphy/react-test-n-deploy)
+* [![Build Status](https://travis-ci.com/401-advanced-javascript-aimurphy/react-test-n-deploy.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aimurphy/react-test-n-deploy) -- tests pass, but travis fails b/c lint?node_modules?🤔
 * [back-end](http://xyz.com) (when applicable)
 * [front-end: netlify](https://elated-jennings-85ced8.netlify.com/)
+* struggling with s3 
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
