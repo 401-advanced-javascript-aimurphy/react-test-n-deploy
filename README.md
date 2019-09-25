@@ -5,8 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Author: Ai
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-aimurphy/react-test-n-deploy/pull/1)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-aimurphy/react-test-n-deploy/pull/5)
+* [![Build Status](https://travis-ci.com/401-advanced-javascript-aimurphy/react-test-n-deploy.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aimurphy/react-test-n-deploy)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end: netlify](https://elated-jennings-85ced8.netlify.com/)
 
