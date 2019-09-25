@@ -47,10 +47,10 @@ class Counter extends React.Component {
   render() {
     return (
       <div>
-        <button onClick={this.handleButtonClickDown}>LESS?</button>
+        <button id="less" onClick={this.handleButtonClickDown}>LESS?</button>
         <h4 className={this.state.polarity}>{this.state.counter}</h4>
         {/* className is JSX for class */}
-        <button onClick={this.handleButtonClickUp}>MORE!</button>
+        <button id="more" onClick={this.handleButtonClickUp}>MORE!</button>
       </div>
     );
   }

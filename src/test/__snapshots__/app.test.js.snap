@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Counter/> renders correctly 1`] = `
+Array [
+  <header>
+    <h1>
+      Header
+    </h1>
+  </header>,
+  <div>
+    <button
+      id="less"
+      onClick={[Function]}
+    >
+      LESS?
+    </button>
+    <h4
+      className="neutral"
+    >
+      0
+    </h4>
+    <button
+      id="more"
+      onClick={[Function]}
+    >
+      MORE!
+    </button>
+  </div>,
+  <footer>
+    © 2018 Code Fellows
+  </footer>,
+]
+`;
