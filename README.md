@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [![Build Status](https://travis-ci.com/401-advanced-javascript-aimurphy/react-test-n-deploy.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aimurphy/react-test-n-deploy) -- tests pass, but travis fails b/c lint?node_modules?🤔
 * [back-end](http://xyz.com) (when applicable)
 * [front-end: netlify](https://elated-jennings-85ced8.netlify.com/)
-* struggling with s3 
+* [struggling with s3](http://buck-buck.s3-website-us-west-2.amazonaws.com) --Elastic Beanstalk doesn't like my s3 bucket url and I've yet to untangle this 🤷🏻‍♀️
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
